@@ -1,0 +1,2 @@
+package org.rajesh.jpaspecification.exception;public class ResourseNotFoundException {
+}

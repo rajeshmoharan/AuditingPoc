@@ -1,0 +1,4 @@
+package org.rajesh.jpaspecification.service;
+
+public class JpaConfig {
+}
